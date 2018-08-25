@@ -8,9 +8,17 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 Has been Tested under Cloud Scenarios Successfully
 
 Download & Install
-git clone 
+git clone https://github.com/blackhatethicalhacking/ddos.git
+
 cd DDoS_BHEH
+
 chmod +x ddos-bheh-attack.py
+
 python ddos-bheh-attack.py
+
+
+
+This tool is created for educational purpose only! We use it to test under NDA agreements with clients
+and their consents and we never encourage to misuse or take responsibility for any damage caused !
 
 
