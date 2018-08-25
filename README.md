@@ -7,7 +7,7 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 
 Has been Tested under Cloud Scenarios Successfully
 
-Dwonload & Install
+Download & Install
 git clone 
 cd DDoS_BHEH
 chmod +x ddos-bheh-attack.py
