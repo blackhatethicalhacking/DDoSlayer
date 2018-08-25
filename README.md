@@ -10,7 +10,7 @@ Has been Tested under Cloud Scenarios Successfully
 Download & Install
 git clone https://github.com/blackhatethicalhacking/ddos.git
 
-cd DDoS_BHEH
+cd ddos
 
 chmod +x ddos-bheh-attack.py
 
