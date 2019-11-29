@@ -22,8 +22,15 @@ os.system("figlet Black Hat Ethical Hacking")
 print
 print "Author   : SaintDruG"
 print "Website : https://www.blackhatethicalhacking.com"
-print "github   : https://github.com/blackhatethicalhacking"
+print "Github   : https://github.com/blackhatethicalhacking"
 print "Facebook : https://www.facebook.com/secur1ty1samyth"
+print "YouTube : https://www.youtube.com/channel/UCLfbThqyvG00lzOdMyB4GkQ"
+print "Linkedin : https://www.linkedin.com/company/black-hat-ethical-hacking/"
+print "Instagram : https://www.instagram.com/blackhatethicalhacking/"
+print "Twitter : https://twitter.com/secur1ty1samyth"
+print "Security is a myth..   : Follow us & Stay Tuned!"
+print "This tool is written for educational purposes only - helping the defensive team look into how such attacks take place."
+print "BHEH Is not responsivle for misusing it and must have an NDA signed to perform such attacks"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
