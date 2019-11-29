@@ -18,6 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
+os.system("apt-get install -y figlet")
 os.system("figlet Black Hat Ethical Hacking")
 print
 print "Author   : SaintDruG"
