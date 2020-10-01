@@ -1,4 +1,4 @@
-# DDoS
+# DDoS attacks 
 DDoS  by Black Hat Ethical Hacking 
 
 What Is A DDos-Attack
