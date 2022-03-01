@@ -14,9 +14,9 @@ cd ddos
 
 chmod +x ddos-bheh-attack.py
 
-python ddos-bheh-attack.py
+python2 ddos-bheh-attack.py
 
-
+This works with Python2
 
 This tool is created for educational purpose only! We use it to test under NDA agreements with clients
 and their consents and we never encourage to misuse or take responsibility for any damage caused !
