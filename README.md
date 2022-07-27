@@ -8,6 +8,10 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 
 This can be used also to test specific ports running on specific services, that could be vulnerable to DDoS attacks, especially when you find a valid vulnerable issue that can be exploited by such attacks.
 
+# Screenshot
+
+![alt text](https://imgur.com/dHAEbnN.png)
+
 # Installation
 
 `git clone https://github.com/blackhatethicalhacking/DDoS-Layer7-bheh.git`
