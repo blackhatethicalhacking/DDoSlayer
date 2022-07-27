@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("apt-get install -y figlet")
 os.system("pip install lolcat")
-os.system("figlet Black Hat Ethical Hacking" | lolcat)
+os.system("figlet Black Hat Ethical Hacking") | lolcat
 print()
 print("Author   : SaintDruG") | lolcat
 print("Website : https://www.blackhatethicalhacking.com") | lolcat
