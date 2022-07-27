@@ -1,5 +1,6 @@
 # DDoS
-A DDoS tool written by Black Hat Ethical Hacking .
+
+A Layer 7 DDoS tool written by Black Hat Ethical Hacking.
 
 # What Is A DDos-Attack?
 
@@ -8,9 +9,15 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 
 This can be used also to test specific ports running on specific services, that could be vulnerable to DDoS attacks, especially when you find a valid vulnerable issue that can be exploited by such attacks.
 
-# Screenshot
+# Screenshots
 
-![alt text](https://imgur.com/dHAEbnN.png)
+**Main Menu**
+
+![alt text](https://i.ibb.co/6JnTt3B/Main.png)
+
+**Attack in Progress**
+
+![alt text](https://i.ibb.co/0fGDnNZ/Attack.png)
 
 # Instructions
 
@@ -36,13 +43,12 @@ It is recommended to use high bandwith, such as a VPS Server.
 
 # Udpates
 
-We just converted this tool from Python2 to Python3! 
+We just converted this tool from Python2 to Python3! added some colors, added time to perform the attack as well!
 
 # Compatibility
 
 Tested on Kali Linux, Parrot OS - Any Debian based that uses apt package manager.
 
-This tool is created for educational purpose only! We use it to test under NDA agreements with clients
-and their consents and we never encourage to misuse or take responsibility for any damage caused !
+This tool is created for educational purpose only! We use it to test under NDA agreements with clients and their consents and we never encourage to misuse or take responsibility for any damage caused !
 
 
