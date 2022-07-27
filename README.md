@@ -1,5 +1,5 @@
 # DDoS
-DDoS  by Black Hat Ethical Hacking 
+A DDoS tool written by Black Hat Ethical Hacking .
 
 # What Is A DDos-Attack?
 
