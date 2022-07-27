@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("apt-get install -y figlet")
 os.system("pip install lolcat")
-os.system("figlet Black Hat Ethical Hacking") | lolcat
+echo "figlet Black Hat Ethical Hacking" | lolcat
 print()
 print("Author   : SaintDruG") | lolcat
 print("Website : https://www.blackhatethicalhacking.com") | lolcat
@@ -36,8 +36,8 @@ print("BHEH Is not responsible for misusing it and must have an NDA signed to pe
 print()
 ip = input("IP Target : ") | lolcat
 port = eval(input("Port       : ")) | lolcat
-os.system("clear") | lolcat
-os.system("figlet Attack Starting") | lolcat
+os.system("clear")
+echo "figlet Attack Starting" | lolcat
 print("[                    ] 0% ") | lolcat
 time.sleep(4.9)
 print("[=====               ] 25%") | lolcat
