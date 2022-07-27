@@ -12,6 +12,18 @@ This can be used also to test specific ports running on specific services, that 
 
 ![alt text](https://imgur.com/dHAEbnN.png)
 
+# Instructions
+
+All you have to do when you run this tool is provide it with:
+
+- Target IP
+- Target Port
+- Time to attack
+
+It will then start sending 1337 packets to that port for the time you gave it.
+
+It is recommended to use high bandwith, such as a VPS Server.
+
 # Installation
 
 `git clone https://github.com/blackhatethicalhacking/DDoS-Layer7-bheh.git`
