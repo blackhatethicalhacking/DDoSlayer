@@ -43,7 +43,7 @@ It is recommended to use high bandwith, such as a VPS Server.
 
 `python3 ddos-bheh-attack.py`
 
-# Udpates
+# Updates
 
 We just converted this tool from Python2 to Python3! added some colors, added time to perform the attack as well!
 
