@@ -51,6 +51,6 @@ We just converted this tool from Python2 to Python3! added some colors, added ti
 
 Tested on Kali Linux, Parrot OS - Any Debian based that uses apt package manager.
 
-This tool is created for educational purpose only! We use it to test under NDA agreements with clients and their consents and we never encourage to misuse or take responsibility for any damage caused !
+This tool is created for educational purpose only! We use it to test under NDA agreements with clients and their consents for pentesting purposes and we never encourage to misuse or take responsibility for any damage caused !
 
 
