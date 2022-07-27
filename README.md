@@ -7,16 +7,19 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 
 Has been Tested under Cloud Scenarios Successfully
 
-Download & Install
-git clone https://github.com/blackhatethicalhacking/ddos.git
+# Installation
 
-cd ddos
+`git clone https://github.com/blackhatethicalhacking/DDoS-Layer7-bheh.git`
 
-chmod +x ddos-bheh-attack.py
+`cd DDoS-Layer7-bheh`
 
-python2 ddos-bheh-attack.py
+`chmod +x ddos-bheh-attack.py`
 
-This works with Python2
+`python3 ddos-bheh-attack.py`
+
+# Udpates
+
+We just converted this tool from Python2 to Python3! 
 
 This tool is created for educational purpose only! We use it to test under NDA agreements with clients
 and their consents and we never encourage to misuse or take responsibility for any damage caused !
