@@ -18,15 +18,17 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 
 This can be used also to test specific ports running on specific services, that could be vulnerable to DDoS attacks, especially when you find a valid vulnerable issue that can be exploited by such attacks.
 
-# Screenshots
 
-**Main Menu**
+# Installation
 
-![alt text](https://i.ibb.co/6JnTt3B/Main.png)
+`git clone https://github.com/blackhatethicalhacking/DDoS-Layer7-bheh.git`
 
-**Attack in Progress**
+`cd DDoS-Layer7-bheh`
 
-![alt text](https://i.ibb.co/0fGDnNZ/Attack.png)
+`chmod +x ddos-bheh-attack.py`
+
+`python3 ddos-bheh-attack.py`
+
 
 # Instructions
 
@@ -40,26 +42,30 @@ It will then start sending 1337 packets to that port for the time you gave it.
 
 Note the time is in seconds.
 
-It is recommended to use high bandwith, such as a VPS Server.
+It is recommended to use high bandwidth, such as a VPS Server.
 
-# Installation
 
-`git clone https://github.com/blackhatethicalhacking/DDoS-Layer7-bheh.git`
+# Screenshots
 
-`cd DDoS-Layer7-bheh`
+**Main Menu**
 
-`chmod +x ddos-bheh-attack.py`
+![alt text](https://i.ibb.co/6JnTt3B/Main.png)
 
-`python3 ddos-bheh-attack.py`
+**Attack in Progress**
 
-# Updates
+![alt text](https://i.ibb.co/0fGDnNZ/Attack.png)
 
-We just converted this tool from Python2 to Python3! added some colors, added time to perform the attack as well!
 
 # Compatibility
 
 Tested on Kali Linux, Parrot OS - Any Debian based that uses apt package manager.
 
+
+# Updates
+
+We just converted this tool from Python2 to Python3! added some colors, added time to perform the attack as well!
+
+
+#Disclaimer
+
 This tool is created for educational purpose only! We use it to test under NDA agreements with clients and their consents for pentesting purposes and we never encourage to misuse or take responsibility for any damage caused !
-
-
