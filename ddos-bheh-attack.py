@@ -20,7 +20,6 @@ bytes = random._urandom(1337)
 #Install Figlet
 os.system("clear")
 os.system("apt-get install -y figlet")
-os.system("pip install lolcat")
 os.system("figlet Black Hat Ethical Hacking")
 print()
 print(colored("Author   : SaintDruG", 'green'))
