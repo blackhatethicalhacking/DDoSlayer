@@ -40,7 +40,7 @@ All you have to do when you run this tool is provide it with:
 
 It will then start sending 1337 packets to that port for the time you gave it.
 
-Note the time is in seconds.
+Note, the time is in seconds.
 
 It is recommended to use high bandwidth, such as a VPS Server.
 
