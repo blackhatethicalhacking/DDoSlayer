@@ -66,7 +66,7 @@ Tested on Kali Linux, Parrot OS - Any Debian based that uses apt package manager
 We just converted this tool from Python2 to Python3! added some colors, added time to perform the attack as well!
 
 
-#Disclaimer
+# Disclaimer
 
 This tool is provided for educational and research purpose only. The author of this project are no way responsible for any misuse of this tool. 
 We use it to test under NDA agreements with clients and their consents for pentesting purposes and we never encourage to misuse or take responsibility for any damage caused !
