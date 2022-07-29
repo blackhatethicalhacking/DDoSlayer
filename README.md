@@ -70,3 +70,9 @@ We just converted this tool from Python2 to Python3! added some colors, added ti
 
 This tool is provided for educational and research purpose only. The author of this project are no way responsible for any misuse of this tool. 
 We use it to test under NDA agreements with clients and their consents for pentesting purposes and we never encourage to misuse or take responsibility for any damage caused !
+
+# Support
+
+If you would like to support us, you can always buy us coffee(s)! :-)
+
+<a href="https://www.buymeacoffee.com/bheh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
