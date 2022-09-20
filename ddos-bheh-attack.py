@@ -6,6 +6,9 @@ import random
 from termcolor import colored
 #This is where the magic starts using the power of python
 from datetime import datetime
+from colorama import Fore
+
+
 now = datetime.now()
 hour = now.hour
 minute = now.minute
@@ -41,16 +44,12 @@ timeout = time.time() + int(dur)
 sent = 0
 os.system("clear")
 os.system("figlet Attack Starting")
-print(colored("[                    ] 0% ",'blue'))
-time.sleep(4.9)
-print(colored("[=====               ] 25%", 'red'))
-time.sleep(4.9)
-print(colored("[==========          ] 50%",'magenta'))
-time.sleep(4.9)
-print(colored("[===============     ] 75%", 'yellow'))
-time.sleep(4.9)
-print(colored("[====================] 100%",'green'))
-time.sleep(2.9)
+
+par = "■"
+
+for i in range(0,100):
+    print(Fore.RED+par,end="")
+    time.sleep(0.08)
 while True:
     try:
         if time.time() > timeout:
