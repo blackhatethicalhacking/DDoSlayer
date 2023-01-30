@@ -79,11 +79,7 @@ It is recommended to use high bandwidth, such as a VPS Server.
 
 **Main Menu**
 
-![alt text](https://i.ibb.co/6JnTt3B/Main.png)
-
-**Attack in Progress**
-
-![alt text](https://i.ibb.co/0fGDnNZ/Attack.png)
+![main](https://user-images.githubusercontent.com/13942386/215484820-8cac8afc-2b0d-400b-a07f-cd3198c2f6ce.png)
 
 
 # Compatibility
