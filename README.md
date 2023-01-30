@@ -38,7 +38,7 @@ Moreover, the tool is designed with ease of use in mind, allowing even novice us
 
 # New Features in Version: 2.0
 
-• Focus on Layer 7 attacks: The tool is designed to specifically target the most sophisticated types of DDoS attacks, known as layer 7 attacks.
+• Focus on Layer 7 attacks: The tool is re-designed to specifically target the most sophisticated types of DDoS attacks, known as layer 7 attacks.
 
 • Multiple attack types: The tool offers three different types of DDoS attacks: UDP Flood, SYN Flood, and HTTP Flood, giving the user flexibility in their choice of attack.
 
