@@ -23,9 +23,13 @@ DDoS is an abbreviation for Distributed Denial of Service, a type of attack aime
 # New Features in V2.0
 
 • Focus on Layer 7 attacks: The tool is designed to specifically target the most sophisticated types of DDoS attacks, known as layer 7 attacks.
+
 • Multiple attack types: The tool offers three different types of DDoS attacks: UDP Flood, SYN Flood, and HTTP Flood, giving the user flexibility in their choice of attack.
+
 • Optimized for speed: DDoS-Layer7-bheh is designed to perform attacks quickly and efficiently, making it an ideal choice for those looking to disrupt the target as quickly as possible.
+
 • Real-time feedback: The tool provides real-time feedback on the number of packets sent during the attack, allowing the user to monitor the progress of the attack.
+
 • User-friendly: The tool is designed to be user-friendly, with a simple and intuitive interface, allowing even inexperienced users to perform sophisticated DDoS attacks with ease.
 
 
