@@ -13,9 +13,7 @@ An Advanced Layer 7 DDoS tool written by Black Hat Ethical Hacking
 
 # Description
 
-# **DDoS-Layer7-bheh**
-
-An Offensive Security Tool written in Python3 by Chris 'SaintDruG' Abou-Chabke from Black Hat Ethical Hacking, designed to perform **Distributed Denial of Service (DDoS)** attacks.
+**DDoS-Layer7-bheh** is an Offensive Security Tool written in Python3 by Chris 'SaintDruG' Abou-Chabke from Black Hat Ethical Hacking, designed to perform **Distributed Denial of Service (DDoS)** attacks.
 
 ### **Focus on Layer 7 Attacks**
 
