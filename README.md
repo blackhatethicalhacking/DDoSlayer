@@ -8,19 +8,37 @@
 </p>
 
 <p align="center">
-A Layer 7 DDoS tool written by Black Hat Ethical Hacking
+An Advanced Layer 7 DDoS tool written by Black Hat Ethical Hacking
 </p>
 
 # Description
 
-**"DDoS-Layer7-bheh"** is an Offensive Security Tool written in Python3 by Chris 'SaintDruG' Abou-Chabke from Black Hat Ethical Hacking, designed to perform Distributed Denial of Service (DDoS) attacks. 
-The focus of the tool is on layer 7 attacks, which are known to be the most advanced types of DDoS attacks. The tool offers the user a choice between three different DDoS attack methods: **UDP Flood, SYN Flood, and HTTP Flood.**
+# **DDoS-Layer7-bheh**
 
-DDoS is an abbreviation for Distributed Denial of Service, a type of attack aimed at disrupting the availability of a targeted website, network, or service. This attack is typically carried out by overwhelming the target with a large amount of traffic from multiple sources. In the context of red teaming and pentesting, DDoS attacks are simulated to evaluate the ability of the blue team to withstand such sophisticated attacks.
+An Offensive Security Tool written in Python3 by Chris 'SaintDruG' Abou-Chabke from Black Hat Ethical Hacking, designed to perform **Distributed Denial of Service (DDoS)** attacks.
 
-"DDoS-Layer7-bheh" is optimized for speed and efficiency, making it a great choice for those looking to execute DDoS attacks in a timely and effective manner. The tool provides real-time feedback on the number of packets sent during the attack, enabling the user to monitor its progress. Moreover, the tool is designed with ease of use in mind, allowing even novice users to carry out advanced DDoS attacks with ease.
+### **Focus on Layer 7 Attacks**
 
-# New Features in V2.0
+The focus of the tool is on **layer 7 attacks**, which are known to be the most advanced types of DDoS attacks. The tool offers the user a choice between three different DDoS attack methods: 
+
+- UDP Flood
+- SYN Flood
+- HTTP Flood
+
+### **What is DDoS?**
+
+DDoS is an abbreviation for **Distributed Denial of Service**, a type of attack aimed at disrupting the availability of a targeted website, network, or service. This attack is typically carried out by overwhelming the target with a large amount of traffic from multiple sources. In the context of red teaming and pentesting, DDoS attacks are simulated to evaluate the ability of the blue team to withstand such sophisticated attacks.
+
+### **Optimized for Speed and Efficiency**
+
+"DDoS-Layer7-bheh" is optimized for speed and efficiency, making it a great choice for those looking to execute DDoS attacks in a timely and effective manner. The tool provides real-time feedback on the number of packets sent during the attack, enabling the user to monitor its progress.
+
+### **User-Friendly and Easy to Use**
+
+Moreover, the tool is designed with ease of use in mind, allowing even novice users to carry out advanced DDoS attacks with ease.
+
+
+# New Features in Version: 2.0
 
 • Focus on Layer 7 attacks: The tool is designed to specifically target the most sophisticated types of DDoS attacks, known as layer 7 attacks.
 
