@@ -11,12 +11,22 @@
 A Layer 7 DDoS tool written by Black Hat Ethical Hacking
 </p>
 
-# What is a DDoS-Attack?
+# Description
 
-A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable
-by overwhelming it with traffic from multiple sources. They target a wide variety of important resources from banks to news websites or any kind of business, and present a major challenge to making sure people can publish and access important information and turning the site down, this way no transactions can be made for the time its being DDoSed.
+**"DDoS-Layer7-bheh"** is an Offensive Security Tool written in Python3 by Chris 'SaintDruG' Abou-Chabke from Black Hat Ethical Hacking, designed to perform Distributed Denial of Service (DDoS) attacks. 
+The focus of the tool is on layer 7 attacks, which are known to be the most advanced types of DDoS attacks. The tool offers the user a choice between three different DDoS attack methods: **UDP Flood, SYN Flood, and HTTP Flood.**
 
-This can be used also to test specific ports running on specific services, that could be vulnerable to DDoS attacks, especially when you find a valid vulnerable issue that can be exploited by such attacks.
+DDoS is an abbreviation for Distributed Denial of Service, a type of attack aimed at disrupting the availability of a targeted website, network, or service. This attack is typically carried out by overwhelming the target with a large amount of traffic from multiple sources. In the context of red teaming and pentesting, DDoS attacks are simulated to evaluate the ability of the blue team to withstand such sophisticated attacks.
+
+"DDoS-Layer7-bheh" is optimized for speed and efficiency, making it a great choice for those looking to execute DDoS attacks in a timely and effective manner. The tool provides real-time feedback on the number of packets sent during the attack, enabling the user to monitor its progress. Moreover, the tool is designed with ease of use in mind, allowing even novice users to carry out advanced DDoS attacks with ease.
+
+# New Features in V2.0
+
+• Focus on Layer 7 attacks: The tool is designed to specifically target the most sophisticated types of DDoS attacks, known as layer 7 attacks.
+• Multiple attack types: The tool offers three different types of DDoS attacks: UDP Flood, SYN Flood, and HTTP Flood, giving the user flexibility in their choice of attack.
+• Optimized for speed: DDoS-Layer7-bheh is designed to perform attacks quickly and efficiently, making it an ideal choice for those looking to disrupt the target as quickly as possible.
+• Real-time feedback: The tool provides real-time feedback on the number of packets sent during the attack, allowing the user to monitor the progress of the attack.
+• User-friendly: The tool is designed to be user-friendly, with a simple and intuitive interface, allowing even inexperienced users to perform sophisticated DDoS attacks with ease.
 
 
 # Installation
@@ -36,7 +46,7 @@ All you have to do when you run this tool is provide it with:
 
 - Target IP
 - Target Port
-- Time to attack
+- Duration to attack
 
 It will then start sending 1337 packets to that port for the time you gave it.
 
@@ -58,10 +68,19 @@ It is recommended to use high bandwidth, such as a VPS Server.
 
 # Compatibility
 
-Tested on Kali Linux, Parrot OS - Any Debian based that uses apt package manager.
+Tested on Kali Linux, Parrot OS & MacOS
 
 
 # Updates
+
+V2.0
+
+Added 3 attack options to choose from
+Error Handlings
+Optimizations
+Check Features!
+
+V1.2
 
 We just converted this tool from Python2 to Python3! added some colors, added time to perform the attack as well!
 
