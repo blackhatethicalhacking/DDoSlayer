@@ -12,7 +12,7 @@ An Advanced Layer 7 DDoS tool written by Black Hat Ethical Hacking
 
 # Description
 
-**DDoS-Layer7-bheh** is an Offensive Security Tool written in Python3 by Chris 'SaintDruG' Abou-Chabke from Black Hat Ethical Hacking, designed to perform **Distributed Denial of Service (DDoS)** attacks.
+**DDoSlayer** is an Offensive Security Tool written in Python3 by Chris 'SaintDruG' Abou-Chabke from Black Hat Ethical Hacking, designed to perform **Distributed Denial of Service (DDoS)** attacks.
 
 ### **Focus on Layer 7 Attacks**
 
@@ -28,7 +28,7 @@ DDoS is an abbreviation for **Distributed Denial of Service**, a type of attack 
 
 ### **Optimized for Speed and Efficiency**
 
-"DDoS-Layer7-bheh" is optimized for speed and efficiency, making it a great choice for those looking to execute DDoS attacks in a timely and effective manner. The tool provides real-time feedback on the number of packets sent during the attack, enabling the user to monitor its progress.
+"DDoSlayer" is optimized for speed and efficiency, making it a great choice for those looking to execute DDoS attacks in a timely and effective manner. The tool provides real-time feedback on the number of packets sent during the attack, enabling the user to monitor its progress.
 
 ### **User-Friendly and Easy to Use**
 
@@ -41,7 +41,7 @@ Moreover, the tool is designed with ease of use in mind, allowing even novice us
 
 • Multiple attack types: The tool offers three different types of DDoS attacks: UDP Flood, SYN Flood, and HTTP Flood, giving the user flexibility in their choice of attack.
 
-• Optimized for speed: DDoS-Layer7-bheh is designed to perform attacks quickly and efficiently, making it an ideal choice for those looking to disrupt the target as quickly as possible.
+• Optimized for speed: DDoSlayer is designed to perform attacks quickly and efficiently, making it an ideal choice for those looking to disrupt the target as quickly as possible.
 
 • Real-time feedback: The tool provides real-time feedback on the number of packets sent during the attack, allowing the user to monitor the progress of the attack.
 
@@ -50,13 +50,13 @@ Moreover, the tool is designed with ease of use in mind, allowing even novice us
 
 # Installation
 
-`git clone https://github.com/blackhatethicalhacking/DDoS-Layer7-bheh.git`
+`git clone https://github.com/blackhatethicalhacking/DDoSlayer.git`
 
-`cd DDoS-Layer7-bheh`
+`cd DDoSlayer`
 
-`chmod +x ddos-bheh-attack.py`
+`chmod +x DDoSlayer.py`
 
-`python3 ddos-bheh-attack.py`
+`python3 DDoSlayer.py`
 
 
 # Instructions
@@ -78,8 +78,7 @@ It is recommended to use high bandwidth, such as a VPS Server.
 
 **Main Menu**
 
-![main](https://user-images.githubusercontent.com/13942386/215484820-8cac8afc-2b0d-400b-a07f-cd3198c2f6ce.png)
-
+![DDoSlayer](https://github.com/blackhatethicalhacking/DDoSlayer/assets/13942386/991d82f4-b497-4783-8bc1-2b72fff513f5)
 
 # Compatibility
 
