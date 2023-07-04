@@ -21,7 +21,7 @@ print(colored("Twitter : https://twitter.com/secur1ty1samyth", 'green'))
 print(colored("Security is a myth..   : Follow us & Stay Tuned!", 'magenta'))
 print(colored("This tool is written for Educational purposes only - helping the defensive team look into how such attacks take place.", 'cyan'))
 print(colored("BHEH Is not responsible for misusing it and must have an NDA signed to perform such attacks", 'red'))
-print(colored("You are using DDoS-Layer7-bheh Version: 2.0", 'yellow'))
+print(colored("You are using DDoSlayer Version: 2.0", 'yellow'))
 print()
 
 # Prompt for target IP and port
