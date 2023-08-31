@@ -93,9 +93,9 @@ def syn_flood(ip, port, duration):
         except KeyboardInterrupt:
             print("\n[*] Attack stopped.")
             sys.exit()
-
+        finally:
+            sock.close()  # Make sure to close the socket in all cases 
 # Function to perform the HTTP Flood attack
-
 
 def http_flood(ip, port, duration):
     # create a socket
