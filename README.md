@@ -104,8 +104,16 @@ We just converted this tool from Python2 to Python3! added some colors, added ti
 This tool is provided for educational and research purpose only. The author of this project are no way responsible for any misuse of this tool. 
 We use it to test under NDA agreements with clients and their consents for pentesting purposes and we never encourage to misuse or take responsibility for any damage caused !
 
-# Support
+<h2 align="center">
+  <a href="https://store.blackhatethicalhacking.com/" target="_blank">BHEH Official Merch</a>
+</h2>
 
-If you would like to support us, you can always buy us coffee(s)! :blush:
+<p align="center">
+Introducing our Merch Store, designed for the Offensive Security community. Explore a curated collection of apparel and drinkware, perfect for both professionals and enthusiasts. Our selection includes premium t-shirts, hoodies, and mugs, each featuring bold hacking-themed slogans and graphics that embody the spirit of red teaming and offensive security. 
+Hack with style and showcase your dedication to hacker culture with gear that’s as dynamic and resilient as you are. 😊
+</p>
 
-<a href="https://www.buymeacoffee.com/bheh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<p align="center">
+
+<img src="https://github.com/blackhatethicalhacking/blackhatethicalhacking/blob/main/Merch_Promo.gif" width="540px" height="540">
+  </p>
