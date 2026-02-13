@@ -37,7 +37,7 @@ Version 3.0 represents a complete architectural overhaul with enterprise-grade f
 - **⚡ 10 Attack Vectors**: From basic floods to advanced CDN bypass techniques
 - **⚡ Stealth Mode**: Randomized timing patterns to evade IDS/WAF detection
 - **⚡ Multi-Threading**: Optimized concurrent attack execution for maximum efficiency
-- **⚡ Deep Improvments**: Over 1771 Lines of Code!
+- **⚡ Deep Improvements**: Over 1771 Lines of Code!
 
 ---
 
